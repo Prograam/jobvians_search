@@ -21,7 +21,7 @@ JOBS = [
     'salary' : 'RS 1,00,000'
     },
     {
-    'id' : 4,
+    'id' : 4,   
     'title' : 'Python Developer',
     'location' :' Bengaluru, India',
     'salary' : 'RS 1,00,000'
@@ -39,3 +39,4 @@ if __name__ == "__main__":
 
 
 
+    
